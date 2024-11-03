@@ -103,7 +103,7 @@ Example: maxOfThree(17, 4, 9) should return 17.
 
 Complete the exercise in the space below:
 */
-function maxOfThree(a, b, c) {
+function maxOfThree(a, b, c) { 
     // Could have just used Math.max(a, b, c) but what's the fun in that?
     let max = 0;
     if (a > b && a > c) {
